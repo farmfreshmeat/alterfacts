@@ -71,6 +71,8 @@ David Becker via [Twitter](https://twitter.com/beckerdavidj/status/8238986278065
 
 ## Day 6 - January 25, 2017
 
+### Voter Fraud
+
 >"I will be asking for a major investigation into VOTER FRAUD, including those registered to vote in two states, those who are illegal and.." -- Donald Trump via [Twitter](https://twitter.com/realDonaldTrump/status/824227824903090176)
 
 #### the truth
@@ -95,3 +97,18 @@ Being registered in two states is not voter fraud. It is extremely common, becau
 > Florida state records show that Mr Bannon is registered at the home of a former Breitbart colleague, Andy 
 > Badolato. It remains unclear whether Mr Bannon actually lived at the property – a requirement of Florida 
 > registration rules – at the time of his registration. 
+
+### Dow Jones hits 20,000
+
+> "The Trump Effect" - Kellyanne Conway vis [Twitter](https://twitter.com/KellyannePolls/status/824269356582453250)
+
+... retweeting 
+
+> "President #Trump's early policy follow through propels Dow to 20K #Dow20K #WallStreet  http://fxn.ws/2j4HNnu" - Fox Business via [Twitter](https://twitter.com/FoxBusiness/status/824263996631027713)
+
+This isn't really a big lie, but certainly unprovable, and correlation does not imply causation. Nor do short term dow jones fluctuations mean much of anything. Suggest we revisit this in a year or two.
+
+For reference, when Obama took office on January 20, 2009, the Dow closed at 7,949.09. On January 20, 2017, it closed at 19,827.25.
+
+[Last 10 years of DJIA](http://www.macrotrends.net/1358/dow-jones-industrial-average-last-10-years)
+
