@@ -30,9 +30,12 @@ A 11 AM, 193,000 people had actually ridden metro on January 20, 2017, vs. 317,0
 
 Total for 2017 was 570,000. Total for 2013 was 782,000. Source: [Politifact](http://www.politifact.com/truth-o-meter/statements/2017/jan/21/sean-spicer/trump-had-biggest-inaugural-crowd-ever-metrics-don/)
 
+Time lapse video of Trump's inauguration: 
+
+[![IMAGE ALT TEXT HERE](./assets/2017-01-25-trump-time-lapse.png)](https://www.youtube.com/watch?v=PdantUf5tXg)
+
 TODO 
 
-* add time lapse video posted by NPR
 * add Side by side comparison picture
 * add Statement from CNN authenticating the time of the picture
 * add CBS statement that Trump filled the audience with shills
@@ -59,4 +62,14 @@ David Becker via [Twitter](https://twitter.com/beckerdavidj/status/8238986278065
 #### other events of note
 
 "EPA and USDA media blackout" via [The Hill](http://thehill.com/policy/energy-environment/315876-trump-bans-epa-employees-from-giving-social-media-updates)
+
+### Day 6 - January 25, 2017
+
+>"I will be asking for a major investigation into VOTER FRAUD, including those registered to vote in two states, those who are illegal and.." -- Donald Trump via [Twitter](https://twitter.com/realDonaldTrump/status/824227824903090176)
+
+#### the truth
+
+Being registered in two states is not voter fraud. It is extremely common, because when people move, there is no automatic mechanism to un-register them from their prior place of registration. Voter rolls are purged periodically, but no evidence exists of any widespread double-voting because of duplicate registrations.
+
+"[Trump's senior advisor] Steve Bannon is registered to vote in two states" - via [The Guardian](https://www.theguardian.com/us-news/2017/jan/25/steve-bannon-voter-registration-trump-election-voter-fraud)
 
