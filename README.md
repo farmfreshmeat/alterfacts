@@ -46,7 +46,7 @@ TODO
 
 > "You're saying it's a falsehood. And they're giving -- Sean Spicer, our press secretary -- gave alternative facts" - Kellyanne Conway, ["Meet The Press"](http://www.nbcnews.com/meet-the-press/video/conway-press-secretary-gave-alternative-facts-860142147643)
 
-### Day 5 - January 24, 2017
+## Day 5 - January 24, 2017
 
 > “I think there have been studies, there was one that came out of Pew in 2008 that showed 14 percent of people who have voted were not citizens. There are other studies that were presented to him.”
 
@@ -63,7 +63,7 @@ David Becker via [Twitter](https://twitter.com/beckerdavidj/status/8238986278065
 
 "EPA and USDA media blackout" via [The Hill](http://thehill.com/policy/energy-environment/315876-trump-bans-epa-employees-from-giving-social-media-updates)
 
-### Day 6 - January 25, 2017
+## Day 6 - January 25, 2017
 
 >"I will be asking for a major investigation into VOTER FRAUD, including those registered to vote in two states, those who are illegal and.." -- Donald Trump via [Twitter](https://twitter.com/realDonaldTrump/status/824227824903090176)
 
