@@ -30,9 +30,12 @@ A 11 AM, 193,000 people had actually ridden metro on January 20, 2017, vs. 317,0
 
 Total for 2017 was 570,000. Total for 2013 was 782,000. Source: [Politifact](http://www.politifact.com/truth-o-meter/statements/2017/jan/21/sean-spicer/trump-had-biggest-inaugural-crowd-ever-metrics-don/)
 
-TODO - add -- time lapse video posted by NPR
-Side by side comparison picture
-Statement from CNN authenticating the time of the picture
+TODO 
+
+* add time lapse video posted by NPR
+* add Side by side comparison picture
+* add Statement from CNN authenticating the time of the picture
+* add CBS statement that Trump filled the audience with shills
 
 ## Day 3 - January 22, 2017
 
