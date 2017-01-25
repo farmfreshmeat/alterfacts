@@ -8,8 +8,6 @@ A chronicle of newspeak and alternative facts from the Trump Administration
 
 ## Day 2 - January 21, 2017
 
-#### what he said
-
 > "Had a great meeting at CIA Headquarters yesterday, packed house, paid great respect to Wall, long standing ovations, amazing people. WIN " - Donald J. Trump via [twitter](https://twitter.com/realDonaldTrump/status/823146987117772800)
 
 > "Wow, television ratings just out: 31 million people watched the Inauguration, 11 million more than the very good ratings from 4 years ago!" - Donald J. Trump via [twitter](https://twitter.com/realDonaldTrump/status/823151124815507460)
