@@ -26,9 +26,9 @@ In 2009, Nielsen recorded 38 million viewers for Obama's inauguration and 31 mil
 
 Estimates for Obama's first inauguration were 1.8 million, and for Trump, approximately 250,000 (TODO - multiple sources)
 
-A 11 AM, 193,000 people had actually ridden metro on January 20, 2017, vs. 317,000 in 2013. The totals. Source: [WMATA](https://twitter.com/wmata/status/822482330346487810?ref_src=twsrc%5Etfw)
+As of 11 AM, 193,000 people had ridden metro on January 20, 2017, vs. 317,000 in 2013. Source: [WMATA](https://twitter.com/wmata/status/822482330346487810?ref_src=twsrc%5Etfw)
 
-Total for 2017 was 570,000. Total for 2013 was 782,000. Source: [Politifact](http://www.politifact.com/truth-o-meter/statements/2017/jan/21/sean-spicer/trump-had-biggest-inaugural-crowd-ever-metrics-don/)
+Total ridership in 2017 was 570,000. Total ridership in 2013 was 782,000. Source: [Politifact](http://www.politifact.com/truth-o-meter/statements/2017/jan/21/sean-spicer/trump-had-biggest-inaugural-crowd-ever-metrics-don/)
 
 Time lapse video of Trump's inauguration: 
 
@@ -44,7 +44,7 @@ TODO
 
 * add Side by side comparison picture
 * add Statement from CNN authenticating the time of the picture
-* add CBS statement that Trump filled the audience with shills
+* add CBS statement that Trump filled the CIA audience with shills
 
 ## Day 3 - January 22, 2017
 
