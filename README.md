@@ -71,5 +71,11 @@ David Becker via [Twitter](https://twitter.com/beckerdavidj/status/8238986278065
 
 Being registered in two states is not voter fraud. It is extremely common, because when people move, there is no automatic mechanism to un-register them from their prior place of registration. Voter rolls are purged periodically, but no evidence exists of any widespread double-voting because of duplicate registrations.
 
+"Why voters are removed from the rolls explained" - via [NPR](http://www.npr.org/2016/04/20/474990269/why-voters-are-removed-from-the-rolls-explained)
+
+> But if the voter doesn't show up for two federal elections in a row, his name can legitimately be removed 
+> from the rolls. A name can also be removed if election officials verify that the individual has died, moved
+> to another jurisdiction or is not allowed to vote for some other reason.
+
 "[Trump's senior advisor] Steve Bannon is registered to vote in two states" - via [The Guardian](https://www.theguardian.com/us-news/2017/jan/25/steve-bannon-voter-registration-trump-election-voter-fraud)
 
