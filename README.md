@@ -32,7 +32,13 @@ Total for 2017 was 570,000. Total for 2013 was 782,000. Source: [Politifact](htt
 
 Time lapse video of Trump's inauguration: 
 
-[![IMAGE ALT TEXT HERE](./assets/2017-01-25-trump-time-lapse.png)](https://www.youtube.com/watch?v=PdantUf5tXg)
+[![Trump Inaugration Time Lapse](./assets/2017-01-25-trump-time-lapse.png)](https://www.youtube.com/watch?v=PdantUf5tXg)
+
+Trump supporters claim that the picture of Obama's inauguration has fewer people than Trump's, via [The Washington Post](https://www.washingtonpost.com/news/monkey-cage/wp/2017/01/25/we-asked-people-which-inauguration-crowd-was-bigger-heres-what-they-said/?utm_term=.93d40656eae0&wpisrc=nl_most&wpmm=1
+)
+
+[![The Smartest Voters!](./assets/trump-voter-inaug-survey.png)](https://www.youtube.com/watch?v=PdantUf5tXg)
+
 
 TODO 
 
