@@ -77,5 +77,5 @@ Being registered in two states is not voter fraud. It is extremely common, becau
 > from the rolls. A name can also be removed if election officials verify that the individual has died, moved
 > to another jurisdiction or is not allowed to vote for some other reason.
 
-"[Trump's senior advisor] Steve Bannon is registered to vote in two states" - via [The Guardian](https://www.theguardian.com/us-news/2017/jan/25/steve-bannon-voter-registration-trump-election-voter-fraud)
+**"[Trump's senior advisor] Steve Bannon is registered to vote in two states"** - via [The Guardian](https://www.theguardian.com/us-news/2017/jan/25/steve-bannon-voter-registration-trump-election-voter-fraud)
 
