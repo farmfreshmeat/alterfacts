@@ -83,5 +83,15 @@ Being registered in two states is not voter fraud. It is extremely common, becau
 > from the rolls. A name can also be removed if election officials verify that the individual has died, moved
 > to another jurisdiction or is not allowed to vote for some other reason.
 
-**"[Trump's senior advisor] Steve Bannon is registered to vote in two states"** - via [The Guardian](https://www.theguardian.com/us-news/2017/jan/25/steve-bannon-voter-registration-trump-election-voter-fraud)
+#### steve bannon is registered in two places, and one of them may be illegal
 
+"[Trump's senior advisor] Steve Bannon is registered to vote in two states" - via [The Guardian](https://www.theguardian.com/us-news/2017/jan/25/steve-bannon-voter-registration-trump-election-voter-fraud)
+
+"Donald Trump adviser Stephen Bannon is registered to vote in two states – which US President wrongly calls voter fraud" -- via [The Independent](http://www.independent.co.uk/news/world/americas/donald-trump-steve-bannon-white-house-chief-strategy-adviser-registered-vote-two-states-voter-fraud-a7546146.html)
+
+> Stephen Bannon registered to vote in New York prior to the election, but he still is registered to vote in
+> Florida. He cast only one ballot in New York. 
+ 
+> Florida state records show that Mr Bannon is registered at the home of a former Breitbart colleague, Andy 
+> Badolato. It remains unclear whether Mr Bannon actually lived at the property – a requirement of Florida 
+> registration rules – at the time of his registration. 
