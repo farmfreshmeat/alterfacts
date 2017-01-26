@@ -13,13 +13,14 @@ I need help maintaining this, both with updating, and organizing as the single-p
 ## Day 6 - January 25, 2017
 
 
-#### First Interview as President
+### First Interview as President
 
 Complete transcript on [Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2017/01/26/donald-trumps-brazen-first-interview-as-president-annotated/?hpid=hp_rhp-top-table-main_pp-trumptv-330am%3Ahomepage%2Fstory&utm_term=.48f7953d0ad2)
 
 *Note that while I've excepted a few particularly stunning portions of the interview, the entire text should be read to fully appreciate the state of mind of the President.*
 
 > DAVID MUIR: So, they'll [Mexico] pay us back?
+
 > PRESIDENT TRUMP: Yeah, absolutely, 100 percent.
 
 *Response from Mexico*
@@ -34,10 +35,15 @@ Complete transcript on [Washington Post](https://www.washingtonpost.com/news/the
 
 
 > DAVID MUIR: What you have presented so far has been debunked. It's been called false.
+
 > PRESIDENT TRUMP: No, it hasn't. Take a look at the Pew reports.
+
 > DAVID MUIR: I called the author of the Pew report last night. And he told me that they found no evidence of voter fraud.
+
 > PRESIDENT TRUMP: Really? Then why did he write the report?
+
 > DAVID MUIR: He said no evidence of voter fraud.
+
 > PRESIDENT TRUMP: Excuse me, then why did he write the report?
 
 > PRESIDENT TRUMP: I will say this, of those votes cast, none of 'em come to me. None of 'em come to me. They would all be for the other side. None of 'em come to me.
@@ -45,6 +51,7 @@ Complete transcript on [Washington Post](https://www.washingtonpost.com/news/the
 *talking about speech to CIA*
 
 > PRESIDENT TRUMP: That speech was a home run. That speech, if you look at Fox, okay, I'll mention you — we see what Fox said. They said it was one of the great speeches. They showed the people> applauding and screaming and — and they were all CIA. There was — somebody was asking Sean — “Well, were they Trump people that were put--" we don't have Trump people. They were CIA people.
+
 > PRESIDENT TRUMP: I then spoke to the crowd. I got a standing ovation. In fact, they said it was the biggest standing ovation since Peyton Manning had won the Super Bowl and they said it was equal. I got a standing ovation. It lasted for a long period of time. What you do is take — take out your tape — you probably ran it live. I know when I do good speeches. I know when I do bad speeches. That speech was a total home run. They loved it. I could've..
 
 *talking about inauguration*
@@ -52,7 +59,9 @@ Complete transcript on [Washington Post](https://www.washingtonpost.com/news/the
 > PRESIDENT TRUMP: In terms of a total audience including television and everything else that you have we had supposedly the biggest crowd in history. 
 
 > PRESIDENT TRUMP: Well, we should've kept the oil when we got out [of Iraq]. And, you know, it's very interesting, had we taken the oil, you wouldn't have ISIS because they fuel themselves with the oil. That's where they got the money. They got the money from leaving — when we left, we left Iraq, which wasn't a government. It's not a government now.
+
 > DAVID MUIR: You've heard the critics who say **that would break all international law, taking the oil.** But I wanna get to the words …
+
 > PRESIDENT TRUMP: Wait, wait, can you believe that? **Who are the critics who say that? Fools.**
 
 
