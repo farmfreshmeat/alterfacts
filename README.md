@@ -70,9 +70,7 @@ Complete transcript on [Washington Post](https://www.washingtonpost.com/news/the
 
 ### Same Interview, Additional Lies
 
-In the same interview, Trump also claimed that 2 murders occurred in Chicago during President Obama's farewell speech. This is false: http://www.chicagotribune.com/news/local/breaking/ct-trump-chicago-violence-abc-interview-met-20170126-story.html?=  
-
-
+In the same interview, Trump also claimed that 2 murders occurred in Chicago during President Obama's farewell speech. [This is false](http://www.chicagotribune.com/news/local/breaking/ct-trump-chicago-violence-abc-interview-met-20170126-story.html)
 
 ### Voter Fraud
 
