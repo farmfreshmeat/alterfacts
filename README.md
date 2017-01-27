@@ -10,6 +10,9 @@ This is an ongoing chronicle of falsehoods presented as fact by the Trump admini
 
 I need help maintaining this, both with updating, and organizing as the single-page layout will become unmanageable quickly. Anyone can contribute using Github. Please make changes and submit pull requests; open issues; or contact me directly if you want to be a privileged collaborator.
 
+
+
+
 ## Day 6 - January 25, 2017
 
 
@@ -63,6 +66,11 @@ Complete transcript on [Washington Post](https://www.washingtonpost.com/news/the
 > DAVID MUIR: You've heard the critics who say **that would break all international law, taking the oil.** But I wanna get to the words …
 
 > PRESIDENT TRUMP: Wait, wait, can you believe that? **Who are the critics who say that? Fools.**
+
+
+### Same Interview, Additional Lies
+
+In the same interview, Trump also claimed that 2 murders occurred in Chicago during President Obama's farewell speech. This is false: http://www.chicagotribune.com/news/local/breaking/ct-trump-chicago-violence-abc-interview-met-20170126-story.html?=  
 
 
 
