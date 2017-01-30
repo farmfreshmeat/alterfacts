@@ -11,10 +11,14 @@ This is an ongoing chronicle of falsehoods presented as fact by the Trump admini
 I need help maintaining this, both with updating, and organizing as the single-page layout will become unmanageable quickly. Anyone can contribute using Github. Please make changes and submit pull requests; open issues; or contact me directly if you want to be a privileged collaborator.
 
 
+## Day 11 - January 30, 2017
+
+Trump denies his executive order caused [airport chaos](http://www.chicagotribune.com/news/nationworld/politics/ct-donald-trump-refugee-ban-airport-protests-20170130-story.html)[.
+](http://www.chicagobusiness.com/article/20170129/NEWS02/170129834/trump-travel-ban-leads-to-airport-chaos-protests)
 ## Day 9 - January 28, 2017
 
 After signing executive order “Protecting the Nation From Foreign Terrorist Entry Into the United States” the previous day, Trump told reporters that ["It's working out very nicely. You see it at the airports. You see it all over."](http://www.cnn.com/2017/01/28/politics/donald-trump-travel-ban/)  
-Granted, it is possible that, rather than a lie, this is a highly idiosyncratic interpretation of "working out very nicely."
+Granted, it is possible that, rather than a lie, this is a highly idiosyncratic interpretation of ["working out very nicely."](http://www.chicagobusiness.com/article/20170129/NEWS02/170129834/trump-travel-ban-leads-to-airport-chaos-protests)
 
 ## Day 6 - January 25, 2017
 
