@@ -17,7 +17,7 @@ I need help maintaining this, both with updating, and organizing as the single-p
 
 7:20 AM - 30 Jan 2017
 
-Trump denies his executive order caused airport chaos [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/politics/ct-donald-trump-refugee-ban-airport-protests-20170130-story.html), [Crain's Chicago Busioness
+Trump denies his executive order caused airport chaos [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/politics/ct-donald-trump-refugee-ban-airport-protests-20170130-story.html), [Crain's Chicago Business
 ](http://www.chicagobusiness.com/article/20170129/NEWS02/170129834/trump-travel-ban-leads-to-airport-chaos-protests)
 
 
