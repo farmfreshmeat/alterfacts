@@ -11,7 +11,10 @@ This is an ongoing chronicle of falsehoods presented as fact by the Trump admini
 I need help maintaining this, both with updating, and organizing as the single-page layout will become unmanageable quickly. Anyone can contribute using Github. Please make changes and submit pull requests; open issues; or contact me directly if you want to be a privileged collaborator.
 
 
+## Day 9 - January 28, 2017
 
+After signing executive order “Protecting the Nation From Foreign Terrorist Entry Into the United States” the previous day, Trump told reporters that ["It's working out very nicely. You see it at the airports. You see it all over."](http://www.cnn.com/2017/01/28/politics/donald-trump-travel-ban/)  
+Granted, it is possible that, rather than a lie, this is a highly idiosyncratic interpretation of "working out very nicely."
 
 ## Day 6 - January 25, 2017
 
