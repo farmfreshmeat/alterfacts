@@ -17,12 +17,13 @@ I need help maintaining this, both with updating, and organizing as the single-p
 
 7:20 AM - 30 Jan 2017
 
+Trump denies his executive order caused airport chaos [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/politics/ct-donald-trump-refugee-ban-airport-protests-20170130-story.html), [Crain's Chicago Busioness
+](http://www.chicagobusiness.com/article/20170129/NEWS02/170129834/trump-travel-ban-leads-to-airport-chaos-protests)
+
+
 "Only 109 people out of 325,000 were detained and held for questioning. Big problems at airports were caused by Delta computer outage, protesters and the tears of Senator Schumer. Secretary Kelly said that all is going well with very few problems. MAKE AMERICA SAFE AGAIN!" -- Donald Trump via [Twitter](https://twitter.com/realDonaldTrump/status/826041397232943104)
 
-According to a Delta airlines representative, Delta's computers went down at 6:30 PN on Sunday, two days after Trump's executive order on immigration. 
-
-Trump deniees his executive order caused airport chaos [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/politics/ct-donald-trump-refugee-ban-airport-protests-20170130-story.html), [Crain's Chicago Busioness
-](http://www.chicagobusiness.com/article/20170129/NEWS02/170129834/trump-travel-ban-leads-to-airport-chaos-protests)
+According to a Delta airlines representative, Delta's computers went down at 6:30 PM on Sunday, two days after Trump's executive order on immigration. 
 
 Protests took place on Saturday and Sunday, long before this. Even [Breitbart](http://www.breitbart.com/big-government/2017/01/30/anti-trump-protests-block-airports-frustrate-travelers/) confirms timeline of protests.
 
