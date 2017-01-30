@@ -14,6 +14,8 @@ I need help maintaining this, both with updating, and organizing as the single-p
 
 # Day 11 - January 30, 2017
 
+### Lying about Delta causing problems in airports
+
 "Only 109 people out of 325,000 were detained and held for questioning. Big problems at airports were caused by Delta computer outage, protesters and the tears of Senator Schumer. Secretary Kelly said that all is going well with very few problems. MAKE AMERICA SAFE AGAIN!" -- Donald Trump via [Twitter](https://twitter.com/realDonaldTrump/status/826041397232943104)
 
 According to a Delta airlines representative, Delta's computers went down at 6:30 PN on Sunday, two days after Trump's executive order on immigration. 
@@ -23,6 +25,11 @@ Protests took place on Saturday and Sunday, long before this. Even [Breitbart](h
 https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2017/01/30/daily-202-fear-of-authoritarianism-pervades-koch-network-seminar-as-billionaire-donors-grapple-with-trump/588e4ed9e9b69b432bc7e09a/?hpid=hp_rhp-top-table-main_kochnetwork-635a%3Ahomepage%2Fstory&utm_term=.4521c3344cab
 
 Regarding the number detained, DHS reported that 109 were detained. They also reported that 375 were prevented from boarding aircraft departing for the US in the first place. It is unclear as of this writing how many are still detained, and how many were legal residents holding green cards.
+
+### Authoritarianism and war on media
+
+"Somebody with aptitude and conviction should buy the FAKE NEWS and failing @nytimes and either run it correctly or let it fold with dignity!" -- Donald Trump via [Twitter](https://twitter.com/realDonaldTrump/status/825690087857995776)
+
 
 7:20 AM - 30 Jan 2017
 
