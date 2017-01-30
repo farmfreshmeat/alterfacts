@@ -31,6 +31,15 @@ Protests took place on Saturday and Sunday, long before this. Even [Breitbart](h
 
 Regarding the number detained, DHS reported that 109 were detained. They also reported that 375 were prevented from boarding aircraft departing for the US in the first place. It is unclear as of this writing how many are still detained, and how many were legal residents holding green cards.
 
+### Victim blaming
+
+> "It's a terrible reminder of why we must remain vigilant and why the President is taking steps to be proactive rather than reactive when it comes to our nation's safety and security"
+>
+> - Sean Spicer on Quebec attack via [The Intercept](https://pbs.twimg.com/media/C3cMwtUWMAAMNCs.jpg)
+
+"The actual shooting suspect is 27-year-old Alexandre Bissonnette, a white French Canadian who is, by all appearances, a rabid anti-immigrant nationalist." - [The Intercept](https://theintercept.com/2017/01/30/suspect-in-quebec-mosque-attack-quickly-depicted-as-a-moroccan-muslim-hes-a-white-nationalist/) 
+
+
 ### Authoritarianism and war on media
 
 > "Somebody with aptitude and conviction should buy the FAKE NEWS and failing @nytimes and either run it correctly or let it fold with dignity!" 
