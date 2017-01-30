@@ -21,7 +21,9 @@ Trump denies his executive order caused airport chaos [Chicago Tribune](http://w
 ](http://www.chicagobusiness.com/article/20170129/NEWS02/170129834/trump-travel-ban-leads-to-airport-chaos-protests)
 
 
-"Only 109 people out of 325,000 were detained and held for questioning. Big problems at airports were caused by Delta computer outage, protesters and the tears of Senator Schumer. Secretary Kelly said that all is going well with very few problems. MAKE AMERICA SAFE AGAIN!" -- Donald Trump via [Twitter](https://twitter.com/realDonaldTrump/status/826041397232943104)
+>"Only 109 people out of 325,000 were detained and held for questioning. Big problems at airports were caused by Delta computer outage, protesters and the tears of Senator Schumer. Secretary Kelly said that all is going well with very few problems. MAKE AMERICA SAFE AGAIN!" 
+>
+> -- Donald Trump via [Twitter](https://twitter.com/realDonaldTrump/status/826041397232943104)
 
 According to a Delta airlines representative, Delta's computers went down at 6:30 PM on Sunday, two days after Trump's executive order on immigration. 
 
@@ -31,17 +33,35 @@ Regarding the number detained, DHS reported that 109 were detained. They also re
 
 ### Authoritarianism and war on media
 
-"Somebody with aptitude and conviction should buy the FAKE NEWS and failing @nytimes and either run it correctly or let it fold with dignity!" -- Donald Trump via [Twitter](https://twitter.com/realDonaldTrump/status/825690087857995776)
+> "Somebody with aptitude and conviction should buy the FAKE NEWS and failing @nytimes and either run it correctly or let it fold with dignity!" 
+> 
+>-- Donald Trump via [Twitter](https://twitter.com/realDonaldTrump/status/825690087857995776)
 
 Koch network begins to [worry about authoritarianism](https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2017/01/30/daily-202-fear-of-authoritarianism-pervades-koch-network-seminar-as-billionaire-donors-grapple-with-trump/588e4ed9e9b69b432bc7e09a/?hpid=hp_rhp-top-table-main_kochnetwork-635a%3Ahomepage%2Fstory&utm_term=.4521c3344cab)
 
 ## Day 9 - January 28, 2017
 
+Steve Bannon is given a seat on the National Security Council via [New York Times](https://www.nytimes.com/2017/01/29/us/stephen-bannon-donald-trump-national-security-council.html?action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&hp)
 
+"... while downgrading the roles of the chairman of the Joint Chiefs of Staff and the director of national intelligence, who will now attend only when the council is considering issues in their direct areas of responsibilities."
 
+## Day 7 - January 26, 2017
+
+### Immigration ban "working out nicely"
 
 After signing executive order "Protecting the Nation From Foreign Terrorist Entry Into the United States" the previous day, Trump told reporters that ["It's working out very nicely. You see it at the airports. You see it all over."](http://www.cnn.com/2017/01/28/politics/donald-trump-travel-ban/)  
 Granted, it is possible that, rather than a lie, this is a highly idiosyncratic interpretation of ["working out very nicely."](http://www.chicagobusiness.com/article/20170129/NEWS02/170129834/trump-travel-ban-leads-to-airport-chaos-protests)
+
+
+### Authoritarianism and war on media
+
+> “The media should be embarrassed and humiliated and keep its mouth shut and just listen for a while,” Mr. Bannon said in an interview on Wednesday.
+>
+> “I want you to quote this,” Mr. Bannon added. “The media here is the opposition party. They don’t understand this country. They still do not understand why Donald Trump is the president of the United States.
+>
+> Steve Bannon via [New York Times](https://www.nytimes.com/2017/01/26/business/media/stephen-bannon-trump-news-media.html)
+
+
 
 ## Day 6 - January 25, 2017
 
