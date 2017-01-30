@@ -12,6 +12,19 @@ I need help maintaining this, both with updating, and organizing as the single-p
 
 
 
+# Day 11 - January 30, 2017
+
+"Only 109 people out of 325,000 were detained and held for questioning. Big problems at airports were caused by Delta computer outage, protesters and the tears of Senator Schumer. Secretary Kelly said that all is going well with very few problems. MAKE AMERICA SAFE AGAIN!" -- Donald Trump via [Twitter](https://twitter.com/realDonaldTrump/status/826041397232943104)
+
+According to a Delta airlines representative, Delta's computers went down at 6:30 PN on Sunday, two days after Trump's executive order on immigration. 
+
+Protests took place on Saturday and Sunday, long before this. Even [Breitbart](http://www.breitbart.com/big-government/2017/01/30/anti-trump-protests-block-airports-frustrate-travelers/) confirms timeline of protests.
+
+https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2017/01/30/daily-202-fear-of-authoritarianism-pervades-koch-network-seminar-as-billionaire-donors-grapple-with-trump/588e4ed9e9b69b432bc7e09a/?hpid=hp_rhp-top-table-main_kochnetwork-635a%3Ahomepage%2Fstory&utm_term=.4521c3344cab
+
+Regarding the number detained, DHS reported that 109 were detained. They also reported that 375 were prevented from boarding aircraft departing for the US in the first place. It is unclear as of this writing how many are still detained, and how many were legal residents holding green cards.
+
+7:20 AM - 30 Jan 2017
 
 ## Day 6 - January 25, 2017
 
